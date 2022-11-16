@@ -38,7 +38,6 @@ body {
 
 .card h2 {
     color: hsl(218, 44%, 22%);
-    font-weight: 700;
 }
 
 .card p {    
@@ -55,10 +54,4 @@ body {
 
 .attribution a {
     color: hsl(228, 45%, 44%); 
-}
-
-@media (max-width: 375px) {
-    .card {
-        width: 50%;
-    }
 }
